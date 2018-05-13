@@ -1,17 +1,26 @@
 ---
 title: Mapping Authority Files with Wikidata
 author: Jakob Voß
+date: 2018-05-15
 ---
 
 # Authority files in Wikidata
 
-a) ...image of infobox...
+:::: .columns
+::: .column
+
+...image of infobox...
+
+:::
+::: .column
+
 
 <!-- wdtaxonomy -ct https://www.wikidata.org/wiki/Q19847637 -->
 
 * [Wikidata property for identifiers](https://www.wikidata.org/wiki/Q19847637) (2739)
 
   * [Wikidata property for authority control](https://www.wikidata.org/wiki/Q18614948) (2296)
+
 
 ...for horses...
 *Total numbers inexact and changing!*
@@ -34,7 +43,7 @@ catalog code                dc:identifier
 * OpenRefine
 * Mix'n'match
 
-![](logo-openrefine.png)
+![](open-refine-320px.png)
 
 # Maintainance
 
